@@ -1,0 +1,60 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 10px;
+}
+#human
+{
+    font-size: 23px;
+    width: 25%;
+    margin: 0px;
+   box-shadow: 10px 10px 10px white;
+   background-color: peachpuff;
+   font-family: fantasy;
+   border-radius: 10px;
+}
+#dog
+{
+    font-size: 23px;
+    width: 25%;
+    margin: 0px;
+   box-shadow: 10px 10px 10px white;
+   background-color: peachpuff;
+   font-family: fantasy;
+   border-radius: 10px;
+}
+#Phone
+{
+    font-size: 23px;
+    width: 25%;
+    margin: 0px;
+   box-shadow: 10px 10px 10px white;
+   background-color: peachpuff;
+   font-family: fantasy;
+   border-radius: 10px;
+}
+.header_1
+{
+    font-size: 23px;
+    width: 50%;
+    margin: 0px;
+   box-shadow: 10px 10px 10px white;
+}
